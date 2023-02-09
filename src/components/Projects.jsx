@@ -16,6 +16,13 @@ function Projects() {
             }
             link={"https://jebgy.github.io/m-game/"}
           />
+          <Card
+            title={"Ruc - Find"}
+            description={
+              "This is a project that I made using React.js. This project use an api to get the information of a RUC."
+            }
+            link={"https://jebgy.github.io/ruc-find/"}
+          />
         </div>
       </div>
     </>

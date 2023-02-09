@@ -7,17 +7,17 @@ function NavBar() {
         <h1 className="me-title">Favio Dev</h1>
         <ul className="option-list">
           <li className="option">
-            <Link className="link" to="/">
+            <Link className="link" to="portafolio-dev/">
               Home
             </Link>
           </li>
           <li className="option">
-            <Link className="link" to="/about">
+            <Link className="link" to="portafolio-dev/about">
               About
             </Link>
           </li>
           <li className="option">
-            <Link className="link" to="/contact">
+            <Link className="link" to="portafolio-dev/contact">
               Contact
             </Link>
           </li>
